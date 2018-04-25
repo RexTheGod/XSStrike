@@ -1,0 +1,4 @@
+fuzzywuzzy
+prettytable
+mechanize
+HTMLParser
